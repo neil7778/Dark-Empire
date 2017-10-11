@@ -1,0 +1,19 @@
+PODS:
+  - GoogleMaps (2.1.0):
+    - GoogleMaps/Maps (= 2.1.0)
+  - GoogleMaps/Base (2.1.0)
+  - GoogleMaps/Maps (2.1.0):
+    - GoogleMaps/Base (= 2.1.0)
+  - Starscream (2.0.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - Starscream
+
+SPEC CHECKSUMS:
+  GoogleMaps: 06589b9a38097bce0cd6e90f0fd9b5e4b4a9344c
+  Starscream: 947c865596f0d6bb3f0203fee23228ed2d471468
+
+PODFILE CHECKSUM: a7f0f71e4b60b70f8426b0ebb5b373cf7e57c4db
+
+COCOAPODS: 1.1.1
